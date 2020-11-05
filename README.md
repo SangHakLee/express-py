@@ -1,0 +1,1 @@
+http://cookiecutter-templates.sebastianruml.name/
